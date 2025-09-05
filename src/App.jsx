@@ -46,7 +46,7 @@ const App = () => {
       {/* ✅ Show message if not searched yet */}
       <h1>Find weather report of any place </h1>
 
-      <p>Easy Fetching and Real time updates </p>
+      <p>Fast Fetching and Real time updates </p>
 
       
       {/* ✅ Show weather card after searching */}
@@ -56,3 +56,4 @@ const App = () => {
 };
 
 export default App;
+
